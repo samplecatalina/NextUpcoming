@@ -1,6 +1,6 @@
 # Next Upcoming App: MTicketing!
 MTicketing is a high-concurrency-and-high-availability ticketing application on the microservice architect.
-Currently in active development (temporarily in a private repo), and anticipated to be released by late June 2024!
+Currently under active development (temporarily in a private repo), and anticipated to be released by late June 2024!
 
 # Technical Features
 - Scalable distributed microservice architect
