@@ -7,5 +7,5 @@ Currently under active development (temporarily in a private repo), and anticipa
 - Multiservice, each created with Node and Express
 - Server-Side-Rendered (SSR) React app using Hooks and Next.jS
 - Dockerized Containers on Kubernetes clusters
-- Redis/MongoDB as the database solution
+- Redis + MongoDB as the database solution
 - Mostly implemented with Typescript
