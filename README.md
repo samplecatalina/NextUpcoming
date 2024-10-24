@@ -1,12 +1,9 @@
-# Next Upcoming App: MTicketing!
-MTicketing is a high-concurrency-and-high-availability ticketing application on the microservice architect.
-Currently under active development (temporarily in a private repo), and anticipated to be released by late June 2024!
+# Next Upcoming App: Spring Fiesta 
 
-# Technical Features
-- Scalable distributed microservice architect
-- Multiservice, each created with Node and Express
-- Server-Side-Rendered (SSR) React app using Hooks and Next.jS
-- Dockerized Containers on Kubernetes clusters
-- MongoDB as the database solution
-- Ingress-Nginx on the gateway layer as load balancer service
-- Mostly implemented with Typescript
+- Fiesta of Spring: SpringBoot, Spring Cloud, Spring Eureka
+- Production ready microservice architecture
+- Dockerized Containers on Kubernetes clusters deployed on GCP with Google Kubernetes Engine through Helm management
+- MySQL as the distributed database solution
+- Industry standard observability solution set: Promethus, Grafana, Loki, Promtail, Tempo
+- Resilient event-driven message queue: RabbitMQ/Kafka, Spring Cloud Stream
+- Standardised API management: OpenAPI Specification, Swagger 
