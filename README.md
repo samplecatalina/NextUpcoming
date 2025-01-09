@@ -4,7 +4,7 @@
 - Orchestraed microservice Kubernetes cluster with **Istio service mesh** and enforced **Mutual Transportation Layer Security (mTLS)** protocol, effectively managing and securing East-West communications.
 - Implemented server-side service discovery and load balancing with Kubernetes discovery server and **Ingress**; created API Gateway with **Spring Cloud Gateway**; consolidated system resiliency by deploying **rate limiter** and **bulkhead** with **Resilience4j**.
 - Engineered runtime config refreshing pipeline through **Spring Cloud Bus** and Config Monitor with **RabbitMQ**.
-- Dockerized Containers on Kubernetes clusters deployed on GCP with **Google Kubernetes Engine (GKE)** through **Helm Chart**.
+- Deployed Dockerized Containers on **Helm-Chart**-managed Kubernetes clusters on GCP with **Google Kubernetes Engine (GKE)**. (GCP deployment was temporary and experimental due to concerns on cost incurred by cloud platform)
 - Streamlined dependency management by **Bill Of Materials (BOM)** in Maven, ensuring version consistency and simplifying the process of upgrading libraries across all microservices.
 - **MySQL/H2** as the distributed database solution, and **Spring Data JPA** was used as ORM.
 - Industry standard observability solution: visualization data panels on **Promethus, Grafana, Loki, Promtail, Tempo**. 
